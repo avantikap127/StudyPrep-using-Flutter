@@ -71,6 +71,11 @@ All data stored locally in Hive
   <img src="assets/homepage.jpg" alt="Home Page" width="300" height="500" />
   <img src="assets/flashcardsub.jpg" alt="flashcardsub" width="300" height="500" />
   <img src="assets/quest.jpg" alt="subquestions" width="300" height="500" />
+  <img src="assets/innerview.jpg" alt="subquestion" width="300" height="500" />
+  <img src="assets/studyplanner.jpg" alt="studyplanner" width="300" height="500" />
+  <img src="assets/subjects.jpg" alt="sub" width="300" height="500" />
+  <img src="assets/timeslots.jpg" alt="timeslots" width="300" height="500" />
+  <img src="assets/generated_timetable...jpg" alt="generated_timetable.." width="300" height="500" />
   </div>
   
   
