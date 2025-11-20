@@ -68,8 +68,9 @@ All data stored locally in Hive
 
   ## 📸 Project Screenshots
   <div style="display: flex; gap: 20px;">
-  <img src="assets/homepage.jpg" alt="Home Page" width="400" height="500" />
-  <img src="assets/flashcardsub.jpg" alt="flashcardsub" width="400" height="500" />
+  <img src="assets/homepage.jpg" alt="Home Page" width="500" height="500" />
+  <img src="assets/flashcardsub.jpg" alt="flashcardsub" width="500" height="500" />
+  <img src="assets/quest.jpg" alt="subquestions" width="500" height="500" />
   </div>
   
   
