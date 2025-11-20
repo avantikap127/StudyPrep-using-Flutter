@@ -69,6 +69,8 @@ All data stored locally in Hive
   ## 📸 Project Screenshots
 
   ### 🏠 1. Home Page
+  <img src="assets/homepage.jpg" alt="Home Page" width="700">
+  
   
   
 
