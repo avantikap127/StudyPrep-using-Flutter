@@ -67,9 +67,11 @@ All data stored locally in Hive
   ---
 
   ## 📸 Project Screenshots
-
-  ### 🏠 1. Home Page
-  <img src="assets/homepage.jpg" alt="Home Page" height="700" width="400">
+  <div style="display: flex; gap: 20px;">
+  <img src="assets/homepage.jpg" alt="Home Page" width="400" height="500" />
+  <img src="assets/demoPage.jpg" alt="Demo Page" width="400" height="500" />
+  </div>
+  
   
   
   
