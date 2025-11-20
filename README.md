@@ -39,8 +39,8 @@ All data stored locally in Hive
 
 ---
 
-#⚙️ How It Works
-🔹 **Flashcards Module**
+#⚙️ How It Works 
+🔹**Flashcards Module**
 
   User selects a subject
 
@@ -52,7 +52,7 @@ All data stored locally in Hive
 
   “Start Revision” mode shows only hard cards
 
-🔹 **Study Planner Module**
+ 🔹**Study Planner Module**
 
   User adds subjects
 
