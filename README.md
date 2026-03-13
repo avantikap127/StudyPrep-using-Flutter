@@ -1,4 +1,4 @@
-# StudyPrep-using-Flutter
+# StudyPrep-Mobile Application
 **StudyPrep** is a smart productivity app designed to help students prepare more effectively.
 It combines adaptive flashcard learning with an intelligent study planner that automatically generates weekly study timetables based on user-defined subjects and free time slots.
 
